@@ -77,6 +77,7 @@ Kentucky’s maternal death review board is run by a private medical society and
 
 ![Kentucky Medical Ass'n Maternal Mortality Study Committee](img/kma_maternal_mortality_study_committee.png)
 
+In 2018, Kentucky made changes to its statutes regarding maternal fatalities.  KRS 211.184 permitted the Department of Health to establish a "state child and maternal fatality review team."  A "maternal fatality"  was defined as the "death of a woman within (1) year of child birth."  [KRS 211.684(1)(c)](enactments/2018-07-14_krs_211.684.pdf).  If a state team was created, they were to develop protocol for local teams, provide training and technical assistance to local teams, review and approve local protocols, receive and analyze data on child and maternal fatalities, evaluate prevention and intervention strategies, recommend changes to improve outcomes.  [KRS 211.684(3)(a-f)](enactments/2018-07-14_krs_211.684.pdf). The Department of Health was to provide an annual report on child and maternal fatalities by November 1st of each year.  [KRS 211.684(4)](enactments/2018-07-14_krs_211.684.pdf).  [KRS 211.686](enactments/2018-07-14_krs_211.686.pdf) provided for local counties to establish under the authority of the coroner a child maternal fatality committee.
 
 ## Helpful resources
 
