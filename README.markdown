@@ -7,11 +7,11 @@
 
 ["Protecting our expecting and new mothers isn’t a partisan issue." --Senator Mitch McConnell](2018-12-26_ky_today_mconnell_preventing_maternal_mortality.pdf)
 
-"Seven hundred mothers die every year, and over 50,000 others experience dangerous complications that could have killed them -- making the U.S. the most dangerous place in the developed world to give birth." [NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+"Seven hundred mothers die every year, and over 50,000 others experience dangerous complications that could have killed them -- making the U.S. the most dangerous place in the developed world to give birth." [NCSL, Maternity Care in Crisis (2019)](reference/reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
 ## Definitions
 
-"Pregnancy-related deaths" are defined by the CDC as any time a woman dies while pregnant or within one year of the end of a pregnancy from any cause related to the pregnancy or its management.  Accidental deaths are not included.[NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+"Pregnancy-related deaths" are defined by the CDC as any time a woman dies while pregnant or within one year of the end of a pregnancy from any cause related to the pregnancy or its management.  Accidental deaths are not included.[NCSL, Maternity Care in Crisis (2019)](reference/reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
 
 ## Major Federal Enactments
@@ -33,29 +33,29 @@ This bill amends the Public Health Service Act to require the Health Resources a
 
 - 74 Kentucky women died in pregnancy from 2011 to 2016.  [Courier-Journal](2018-09-21_cj_maternal_mortality_moms_death_not_reviewed.pdf).
 
-- American woman 3x more likely to die from childbirth than a Canadian woman.[NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+- American woman 3x more likely to die from childbirth than a Canadian woman.[NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
-- 6x more likely to die than a Scandinavian woman.[NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+- 6x more likely to die than a Scandinavian woman.[NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
-- Kazakhstan and Libya have better rates than U.S.[NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+- Kazakhstan and Libya have better rates than U.S.[NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
-- national mortality rate more than doubled between 1987 and 2012 (20.7 deaths / 100,000)[NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+- national mortality rate more than doubled between 1987 and 2012 (20.7 deaths / 100,000)[NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
-- U.S. is one of 13 countries where the rate of maternal mortality is worse in 2018 than twenty-five years prior.[NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+- U.S. is one of 13 countries where the rate of maternal mortality is worse in 2018 than twenty-five years prior.[NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
-- African-American women are 243% more likely to die from pregnancy- or childbirth-related causes, regardless of their socioeconomic or educational levels.[NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+- African-American women are 243% more likely to die from pregnancy- or childbirth-related causes, regardless of their socioeconomic or educational levels.[NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
 - CDC estimates that 60% of maternal deaths could be prevented.
 
 ## Maternal Mortality Review Committee
 
-Half of states have this type of committee. [NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)  
+Half of states have this type of committee. [NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)  
 
-Georgia lowered the risk of preterm birth by 33 to 47%.[NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)  Medical practices in 46 states have adopted the Centering Pregnancy model.[NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf).  
+Georgia lowered the risk of preterm birth by 33 to 47%.[NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)  Medical practices in 46 states have adopted the Centering Pregnancy model.[NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf).  
 
-Committee verifies whether maternal death was related to pregnancy. Vital records rely on coding and timing of death, which doesn't reveal the full picture. [NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+Committee verifies whether maternal death was related to pregnancy. Vital records rely on coding and timing of death, which doesn't reveal the full picture. [NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
-President Trump signed the bipartisan Preventing Maternal Deaths Act of 2017 on December 22 of 2018.  The act authorizes programs to promote safe motherhood and to support states in establishing or improving mortality review committees. [NCSL, Maternity Care in Crisis (2019)](2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+President Trump signed the bipartisan Preventing Maternal Deaths Act of 2017 on December 22 of 2018.  The act authorizes programs to promote safe motherhood and to support states in establishing or improving mortality review committees. [NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
 
 Examples of Mortality Review Committees include the following:
@@ -75,7 +75,7 @@ According to an [article](https://www.usatoday.com/list/news/investigations/mate
 
 Kentucky’s maternal death review board is run by a private medical society and doesn’t issue public reports. The public can get copies of minutes from the group’s meetings, which used to be published in the medical association’s journal. The minutes describe each case, without names or locations but with detailed descriptions of what happened medically. The minutes don’t include recommendations or lessons learned from those cases.  The only internet reference to such a committee was the image below:
 
-![Kentucky Medical Assn Maternal Mortality Study Committee](img/kma_maternal_mortality_study_committee.png)
+![Kentucky Medical Ass'n Maternal Mortality Study Committee](img/kma_maternal_mortality_study_committee.png)
 
 
 ## Helpful resources
