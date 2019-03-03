@@ -5,13 +5,13 @@
 
 ## Introduction
 
-["Protecting our expecting and new mothers isn’t a partisan issue." --Senator Mitch McConnell](2018-12-26_ky_today_mconnell_preventing_maternal_mortality.pdf)
+["Protecting our expecting and new mothers isn’t a partisan issue." --Senator Mitch McConnell](reference/2018-12-26_ky_today_mconnell_preventing_maternal_mortality.pdf)
 
-"Seven hundred mothers die every year, and over 50,000 others experience dangerous complications that could have killed them -- making the U.S. the most dangerous place in the developed world to give birth." [NCSL, Maternity Care in Crisis (2019)](reference/reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+"Seven hundred mothers die every year, and over 50,000 others experience dangerous complications that could have killed them -- making the U.S. the most dangerous place in the developed world to give birth." [NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
 ## Definitions
 
-"Pregnancy-related deaths" are defined by the CDC as any time a woman dies while pregnant or within one year of the end of a pregnancy from any cause related to the pregnancy or its management.  Accidental deaths are not included.[NCSL, Maternity Care in Crisis (2019)](reference/reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
+"Pregnancy-related deaths" are defined by the CDC as any time a woman dies while pregnant or within one year of the end of a pregnancy from any cause related to the pregnancy or its management.  Accidental deaths are not included.[NCSL, Maternity Care in Crisis (2019)](reference/2019-01-11_ncsl_maternity_care_in_crisis.pdf)
 
 
 ## Major Federal Enactments
