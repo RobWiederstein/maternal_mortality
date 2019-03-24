@@ -81,8 +81,18 @@ In 2018, Kentucky made changes to its statutes regarding maternal fatalities.  K
 
 ## Helpful resources
 
-National Women's Health Network
-Michael Kramer social epidemiologist Emory University
-Dr. Kevin Kavanaugh Health Watch USA
-Dr. Stanley Gall, Kentucky M
+[Rachel Jones, American Women are Still Dying at Alarming Rates While Giving Birth, National Geographic (Dec. 13, 2018)](https://www.nationalgeographic.com/culture/2018/12/maternal-mortality-usa-health-motherhood/)
+
+[National Women's Health Network](https://www.nwhn.org)
+
+[Michael Kramer social epidemiologist Emory University](https://sph.emory.edu/faculty/profile/#!MKRAM02)
+
+[Dr. Kevin Kavanaugh Health Watch USA](http://www.healthwatchusa.org)
+
+[National Center for Fatality Review--Kentucky](https://www.ncfrp.org/cdr-programs/u-s-cdr-programs/spotlight-kentucky/)
+
 [California Maternal Quality Care Collaborative](https://www.cmqcc.org/research/ca-pamr-maternal-mortality-review)
+
+[Serena Willaims:  Love Match, Forbes (2018)](https://www.vanityfair.com/style/2017/06/serena-williams-cover-story)
+
+[World Health Organization](https://www.who.int/news-room/fact-sheets/detail/maternal-mortality)
