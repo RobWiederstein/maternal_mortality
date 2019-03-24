@@ -85,6 +85,10 @@ As codified, KRS 211.184 permitted the Department of Health to establish a "stat
 
 [Rachel Jones, American Women are Still Dying at Alarming Rates While Giving Birth, National Geographic (Dec. 13, 2018)](https://www.nationalgeographic.com/culture/2018/12/maternal-mortality-usa-health-motherhood/)
 
+[Review to Action](https://reviewtoaction.org)
+
+[Building U.S. Capacity to Review and Prevent Maternal Deaths](https://www.cdcfoundation.org/building-us-capacity-review-and-prevent-maternal-deaths)
+
 [National Women's Health Network](https://www.nwhn.org)
 
 [Michael Kramer social epidemiologist Emory University](https://sph.emory.edu/faculty/profile/#!MKRAM02)
@@ -96,5 +100,9 @@ As codified, KRS 211.184 permitted the Department of Health to establish a "stat
 [California Maternal Quality Care Collaborative](https://www.cmqcc.org/research/ca-pamr-maternal-mortality-review)
 
 [Serena Willaims:  Love Match, Forbes (2018)](https://www.vanityfair.com/style/2017/06/serena-williams-cover-story)
+
+[Why America's Black Mothers and Babies are in a Life-or-Death Crisis](https://www.nytimes.com/2018/04/11/magazine/black-mothers-babies-death-maternal-mortality.html)
+
+[Lost Mothers: Maternal Care and Preventable Deaths](https://www.propublica.org/series/lost-mothers)
 
 [World Health Organization](https://www.who.int/news-room/fact-sheets/detail/maternal-mortality)
